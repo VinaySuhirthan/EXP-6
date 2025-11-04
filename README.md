@@ -21,7 +21,13 @@ I. Connect the multimeter at the output of kit..
 ![WhatsApp Image 2025-11-04 at 19 50 46_dd4fc277](https://github.com/user-attachments/assets/c9d7d72b-9a82-4831-a972-8b93c15f50ab)
 
 
-<img width="1031" height="612" alt="Screenshot 2025-10-19 182337" src="https://github.com/user-attachments/assets/68cef733-1399-4c14-92ba-957e5f982038" />
+<img width="1920" height="1200" alt="LVDT-case-1" src="https://github.com/user-attachments/assets/939eb725-4bc0-473e-8356-08bea3c27740" />
+
+
+<img width="1920" height="1200" alt="LVDT-case-2" src="https://github.com/user-attachments/assets/f5a60b08-57c6-45e5-ae90-6820bbeea3a8" />
+
+<img width="1920" height="1200" alt="LVDT-case-3" src="https://github.com/user-attachments/assets/fc4e7011-c930-4485-839d-6b8a8b3acb63" />
+
 
 # PRECAUTION:
 1. The values on the multimeter should be carefully noted.
