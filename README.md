@@ -1,5 +1,5 @@
 # EXP-6
-# CHARACTERISTICS M OF LVDT
+# CHARACTERISTICS OF LVDT
 # AIM:
 To measure output voltage w.r.t the displacement of the core on the LVDT kit and find the graphical relationship between the two.
 
@@ -20,6 +20,8 @@ I. Connect the multimeter at the output of kit..
 ![WhatsApp Image 2025-11-04 at 19 50 45_78a9970e](https://github.com/user-attachments/assets/55767b1f-895f-4343-99ee-6787a226d6f5)
 ![WhatsApp Image 2025-11-04 at 19 50 46_dd4fc277](https://github.com/user-attachments/assets/c9d7d72b-9a82-4831-a972-8b93c15f50ab)
 
+
+<img width="1031" height="612" alt="Screenshot 2025-10-19 182337" src="https://github.com/user-attachments/assets/68cef733-1399-4c14-92ba-957e5f982038" />
 
 # PRECAUTION:
 1. The values on the multimeter should be carefully noted.
